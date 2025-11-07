@@ -3,7 +3,7 @@
 
 # Python backend
 ciks-backend/venv/
-ciks-backend/__pycache__/
+ciks-backend/app/__pycache__/*
 ciks-backend/*.py[cod]
 ciks-backend/.env
 ciks-backend/media/
@@ -19,3 +19,4 @@ ciks-app/android/local.properties
 # IDE
 .vscode/
 .idea/
+
