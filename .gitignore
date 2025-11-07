@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+
+# Python backend
+ciks-backend/venv/
+ciks-backend/__pycache__/
+ciks-backend/*.py[cod]
+ciks-backend/.env
+ciks-backend/media/
+
+# Flutter
+ciks-app/.dart_tool/
+ciks-app/.pub-cache/
+ciks-app/build/
+ciks-app/ios/Pods/
+ciks-app/android/.gradle/
+ciks-app/android/local.properties
+
+# IDE
+.vscode/
+.idea/
